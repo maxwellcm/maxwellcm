@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maxwellcm
 - 👀 I’m interested in ui/ux design
-- 🌱 I’m currently learning from the Odin Project
+- 🌱 I’m currently learning from The Odin Project
 - 💞️ I’m looking to collaborate on website design
 - 📫 How to reach me maxwellmonson.x@gmail.com
 
